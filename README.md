@@ -14,3 +14,5 @@ Conteúdos abordados:
 
 Objetivo do curso: 
 Consolidar uma base sólida em desenvolvimento backend com Python, compreendendo o fluxo completo de uma aplicação: criação, autenticação, organização de ambientes e publicação.
+
+Obs: Possuem pasta e códigos de textes e anotações para estudo.
