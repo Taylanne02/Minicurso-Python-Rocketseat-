@@ -1,0 +1,11 @@
+1- db.session.commit() = session é a propriedade do db que armazena a coneção com o banco 
+    e commit pra efetivar as mudanças, deve ser usado sempre que for mudar algo
+
+2- Retorno 200 - deu tudo certo
+
+3- Retorno 400 = Deu errado
+
+4- Retorno 500 = erro interno no servidor, exemplo, não mandou o valor do preço. Aparece quando se usa o '=data[""] se não achar dá erro'
+    Quando se usa o '=data.get("") se não achar vai dar o valor que colocar, no caso um texto vazio'
+
+5- Retorno 405 = metodo não autorizado/permitido devido a falta de autentica, pois é uma ação que requer pessoa autorizada 
